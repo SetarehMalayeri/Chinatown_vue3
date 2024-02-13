@@ -1,0 +1,8 @@
+@import './base.css';
+
+a {
+    text-decoration: none;
+    color: rgb(131, 255, 214);
+    transition: 0.4s;
+    padding: 3px;
+}
